@@ -11,11 +11,6 @@ public class HelloWorld {
 		System.out.println("I'm ordering pizza");
 		System.out.println("Your pizza total is \"$80\"");
 		
-		int num1 = 10;
-		double mom = 10.3;
-		double num2 = num1 + mom;
-		System.out.println(num1 + mom);
-		System.out.println(num1 / num2);
 	}
 
 }
