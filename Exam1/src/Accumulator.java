@@ -39,4 +39,4 @@ public class Accumulator {
 //added line 25 and the code works now!!
 //test 10 + 12 = 22
 //test -10 + 12 = 2
-//test -10 + -12 = 
+//test -10 + -12 = -22
